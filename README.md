@@ -34,7 +34,7 @@ Change the token in the Jina_Semantic_Text_Search.py to the token of your Telegr
 ![image](https://user-images.githubusercontent.com/63040456/141938847-2e792660-573e-4240-9543-cf96a4170e89.png)
 
 # Collaborators
- Names
- -----
- Jerry Britto      https://github.com/JerryBritto3/Featurethon-Season-3     
- Jerrold Gideon    https://github.com/jerrold00j/Featurepreneur_Season_3    
+| Names            | Links                                                    |
+|------------------|----------------------------------------------------------|
+| Jerry Britto     | https://github.com/JerryBritto3/Featurethon-Season-3     |
+| Jerrold Gideon   | https://github.com/jerrold00j/Featurepreneur_Season_3    |
